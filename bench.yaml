@@ -1,0 +1,28 @@
+source:
+  url: https://github.com/gey16/tt_um_grace_spi_led_driver
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_grace_spi_led_driver
+  project: SPI-Controlled 8-Channel LED Driver
+  size: 1x1
+  kind: digital (SystemVerilog)
+  commit: b291084230cb175b0eb81f65aa67ba47aec71cb9
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_grace_spi_led_driver
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_grace_spi_led_driver
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:41:14Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- dev/grace
+- tapeout/tinytapeout/ttgf26a/tt_um_grace_spi_led_driver
+- upstream/dev/grace
+- upstream/main
