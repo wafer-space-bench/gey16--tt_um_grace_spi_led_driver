@@ -17,12 +17,11 @@ tapeouts:
   tag: tinytapeout/ttgf26a/tt_um_grace_spi_led_driver
   branch: tapeout/tinytapeout/ttgf26a/tt_um_grace_spi_led_driver
   page: https://app.tinytapeout.com/shuttles/ttgf26a
-generated: '2026-10-17T23:41:14Z'
+generated: '2026-10-18T08:04:38Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:
 - about
-- dev/grace
 - tapeout/tinytapeout/ttgf26a/tt_um_grace_spi_led_driver
 - upstream/dev/grace
 - upstream/main

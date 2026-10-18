@@ -29,7 +29,6 @@ Part of the [wafer.space GF180 benchmark](https://wafer-space-bench.github.io): 
 Branches currently in this repository:
 
 - `about`
-- `dev/grace`
 - `tapeout/tinytapeout/ttgf26a/tt_um_grace_spi_led_driver`
 - `upstream/dev/grace`
 - `upstream/main`
